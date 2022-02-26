@@ -15,6 +15,6 @@ Score:
 | F    | Find great mentors     |   1,70,176 |
 | -    | TOTAL                  |  17,75,426 |
 
-## 2278 placed Globally.
+### 2278 placed Globally.
 
-## 710 All India Rank.
+### 710 All India Rank.
